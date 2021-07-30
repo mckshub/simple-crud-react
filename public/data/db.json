@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "name": "John",
+      "age": "25",
+      "salary": "25000",
+      "address": "NY",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Jane",
+      "age": 21,
+      "salary": 20000,
+      "address": "NJ"
+    },
+    {
+      "id": 3,
+      "name": "Scott",
+      "age": 30,
+      "salary": 35000,
+      "address": "AZ"
+    },
+    {
+      "id": 4,
+      "name": "Tiger",
+      "age": 30,
+      "salary": 30000,
+      "address": "NJ"
+    }
+  ]
+}
